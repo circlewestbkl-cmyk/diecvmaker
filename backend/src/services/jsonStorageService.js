@@ -5,7 +5,7 @@ const { v4: uuidv4 } = require('uuid');
 const DATA_DIR = path.join(__dirname, '../../data');
 
 // In-memory storage for Vercel serverless (ephemeral filesystem)
-const isServerless = process.env.VERCEL === '1' || process.env.NODE_ENV === 'production';
+const isServerless = process.env.VERCEL === '1' || process.env.VERCEL_ENV || process.env.NODE_ENV === 'production';
 const memoryStore = {};
 
 // Seed demo data for serverless environments
