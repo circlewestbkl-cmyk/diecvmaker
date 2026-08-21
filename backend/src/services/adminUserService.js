@@ -1,5 +1,5 @@
 const jsonStorage = require('./jsonStorageService');
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 const USERS_FILE = 'users.json';
 const SALT_ROUNDS = 10;

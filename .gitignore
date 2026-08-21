@@ -10,3 +10,5 @@ dist/
 *.log
 *.pdf
 fix-firewall.bat
+
+.vercel
