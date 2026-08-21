@@ -1,0 +1,13 @@
+{
+  "name": "cvforge",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm install && npm run build",
+    "start": "cd backend && node src/server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

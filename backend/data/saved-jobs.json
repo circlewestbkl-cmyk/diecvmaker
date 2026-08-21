@@ -1,0 +1,16 @@
+[
+  {
+    "id": "saved_001",
+    "userId": "user_001",
+    "jobId": "job_008",
+    "createdAt": "2026-08-20T10:00:00.000Z",
+    "updatedAt": "2026-08-20T10:00:00.000Z"
+  },
+  {
+    "id": "saved_002",
+    "userId": "user_001",
+    "jobId": "job_014",
+    "createdAt": "2026-08-20T11:00:00.000Z",
+    "updatedAt": "2026-08-20T11:00:00.000Z"
+  }
+]

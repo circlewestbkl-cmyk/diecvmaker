@@ -1,0 +1,875 @@
+[
+  {
+    "id": "cv_demo_001",
+    "userId": "user_001",
+    "title": "Digo Ardestilano - Senior Full Stack Developer",
+    "templateId": "tpl_modern",
+    "personal": {
+      "fullName": "Digo Ardestilano",
+      "professionalTitle": "Senior Full Stack Developer",
+      "email": "digo@demo.com",
+      "phone": "+62812345678",
+      "location": "Jakarta, Indonesia",
+      "website": "https://digo.dev",
+      "linkedin": "https://linkedin.com/in/digo",
+      "github": "https://github.com/digo"
+    },
+    "summary": "Passionate full stack developer with 5+ years of experience building scalable web applications using Vue.js, React, and Node.js. Led development teams and delivered high-impact projects serving millions of users. Expert in modern JavaScript frameworks, RESTful APIs, and cloud infrastructure.",
+    "experiences": [
+      {
+        "id": "exp_001",
+        "company": "Google",
+        "position": "Senior Full Stack Developer",
+        "location": "Mountain View, CA",
+        "startDate": "2022-03",
+        "endDate": "",
+        "current": true,
+        "description": "Lead frontend architecture for Google Cloud Console dashboard serving 10M+ enterprise users worldwide.",
+        "achievements": [
+          "Improved page load speed by 45% through code splitting, lazy loading, and bundle optimization",
+          "Led migration of 80+ components from Vue 2 to Vue 3, reducing bundle size by 35%",
+          "Managed cross-functional team of 12 developers across 4 time zones",
+          "Implemented CI/CD pipeline with GitHub Actions reducing deployment time by 60%",
+          "Architected micro-frontend system enabling independent team deployments"
+        ]
+      },
+      {
+        "id": "exp_002",
+        "company": "Microsoft",
+        "position": "Full Stack Developer",
+        "location": "Redmond, WA",
+        "startDate": "2019-06",
+        "endDate": "2022-02",
+        "current": false,
+        "description": "Developed enterprise-level SaaS applications for Microsoft Azure platform with focus on real-time collaboration.",
+        "achievements": [
+          "Built real-time collaboration features serving 150K+ daily active users",
+          "Reduced API response time by 55% through database query optimization and caching",
+          "Designed RESTful APIs handling 15M+ requests per day with 99.9% uptime",
+          "Achieved 95% test coverage across all microservices using Jest and Cypress",
+          "Mentored 5 junior developers through structured code review process"
+        ]
+      },
+      {
+        "id": "exp_003",
+        "company": "Tokopedia",
+        "position": "Frontend Developer",
+        "location": "Jakarta, Indonesia",
+        "startDate": "2017-08",
+        "endDate": "2019-05",
+        "current": false,
+        "description": "Built responsive web interfaces for Indonesia's largest e-commerce platform.",
+        "achievements": [
+          "Developed product catalog component serving 200K+ products with instant search",
+          "Implemented A/B testing framework increasing conversion rate by 12%",
+          "Created reusable component library used by 50+ developers across 8 teams",
+          "Optimized Core Web Vitals scores achieving 95+ Lighthouse performance"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "edu_001",
+        "institution": "Massachusetts Institute of Technology",
+        "degree": "Master of Science",
+        "fieldOfStudy": "Computer Science",
+        "startDate": "2015-09",
+        "endDate": "2017-06",
+        "gpa": "3.9",
+        "description": "Specialization in Distributed Systems and Human-Computer Interaction. Published 2 research papers on micro-frontend architecture patterns."
+      },
+      {
+        "id": "edu_002",
+        "institution": "University of Indonesia",
+        "degree": "Bachelor of Science",
+        "fieldOfStudy": "Computer Science",
+        "startDate": "2011-09",
+        "endDate": "2015-06",
+        "gpa": "3.8",
+        "description": "Graduated with honors. President of Computer Science Student Association. Led annual hackathon event with 500+ participants."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "Expert",
+        "category": "Frontend"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Expert",
+        "category": "Frontend"
+      },
+      {
+        "name": "Vue.js",
+        "level": "Expert",
+        "category": "Frontend"
+      },
+      {
+        "name": "React",
+        "level": "Advanced",
+        "category": "Frontend"
+      },
+      {
+        "name": "Next.js",
+        "level": "Advanced",
+        "category": "Frontend"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Expert",
+        "category": "Frontend"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "Expert",
+        "category": "Frontend"
+      },
+      {
+        "name": "Node.js",
+        "level": "Expert",
+        "category": "Backend"
+      },
+      {
+        "name": "Express.js",
+        "level": "Expert",
+        "category": "Backend"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced",
+        "category": "Backend"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Advanced",
+        "category": "Database"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Advanced",
+        "category": "Database"
+      },
+      {
+        "name": "Redis",
+        "level": "Intermediate",
+        "category": "Database"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced",
+        "category": "DevOps"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced",
+        "category": "DevOps"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Intermediate",
+        "category": "DevOps"
+      },
+      {
+        "name": "Git",
+        "level": "Expert",
+        "category": "DevOps"
+      },
+      {
+        "name": "CI/CD",
+        "level": "Advanced",
+        "category": "DevOps"
+      }
+    ],
+    "projects": [
+      {
+        "name": "VueForge UI Library",
+        "description": "Open-source Vue 3 component library with 8K+ GitHub stars and 50K+ monthly npm downloads. Features 40+ accessible, themeable components with full TypeScript support.",
+        "role": "Creator & Lead Maintainer",
+        "technologies": [
+          "Vue 3",
+          "TypeScript",
+          "Vite",
+          "Storybook",
+          "Vitest"
+        ],
+        "url": "https://vueforge.dev",
+        "github": "https://github.com/digo/vueforge"
+      },
+      {
+        "name": "Real-time Collaboration Platform",
+        "description": "Built a Google Docs-like real-time collaboration platform supporting 10K+ concurrent users with conflict-free replicated data types (CRDTs).",
+        "role": "Full Stack Developer",
+        "technologies": [
+          "React",
+          "Socket.io",
+          "Node.js",
+          "Redis",
+          "PostgreSQL"
+        ],
+        "url": "",
+        "github": "https://github.com/digo/collab-platform"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Solutions Architect Professional",
+        "issuer": "Amazon Web Services",
+        "date": "2023-06",
+        "credentialId": "AWS-SAP-2023-DIGO",
+        "credentialUrl": "https://aws.amazon.com/verification"
+      },
+      {
+        "name": "Google Cloud Professional Cloud Developer",
+        "issuer": "Google Cloud",
+        "date": "2022-11",
+        "credentialId": "GCP-PCD-2022-DIGO",
+        "credentialUrl": "https://cloud.google.com/certification"
+      },
+      {
+        "name": "Meta Frontend Developer Professional Certificate",
+        "issuer": "Meta",
+        "date": "2021-03",
+        "credentialId": "META-FE-2021-DIGO",
+        "credentialUrl": "https://coursera.org/verify"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Indonesian",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Japanese",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Google Developer Expert in Web Technologies",
+        "organization": "Google",
+        "date": "2023-01",
+        "description": "Recognized for contributions to the Vue.js ecosystem and open-source web development tools. Speaker at Google I/O 2023."
+      },
+      {
+        "title": "Best Open Source Project Award",
+        "organization": "GitHub Universe 2022",
+        "date": "2022-11",
+        "description": "VueForge UI Library recognized as one of the top open-source projects of 2022."
+      },
+      {
+        "title": "Hackathon Winner - TechCrunch Disrupt",
+        "organization": "TechCrunch",
+        "date": "2021-09",
+        "description": "First place winner at TechCrunch Disrupt Hackathon with AI-powered accessibility checker for web applications."
+      }
+    ],
+    "organizations": [],
+    "customSections": [],
+    "isPublic": false,
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "updatedAt": "2026-08-21T10:40:36.989Z"
+  },
+  {
+    "id": "cv_demo_002",
+    "userId": "user_002",
+    "title": "Sarah Chen - UI/UX Designer & Frontend Developer",
+    "templateId": "tpl_modern",
+    "personal": {
+      "fullName": "Sarah Chen",
+      "professionalTitle": "Senior UI/UX Designer & Frontend Developer",
+      "email": "sarah@demo.com",
+      "phone": "+6591234567",
+      "location": "Singapore",
+      "website": "https://sarahchen.design",
+      "linkedin": "https://linkedin.com/in/sarahchen",
+      "github": "https://github.com/sarahchen"
+    },
+    "summary": "Creative designer turned developer with 6+ years of experience building beautiful, accessible, and performant user interfaces. Expert in design systems, user research, and frontend implementation using React and Vue.js. Passionate about bridging the gap between design and development.",
+    "experiences": [
+      {
+        "id": "exp_010",
+        "company": "Grab",
+        "position": "Senior UI/UX Designer & Frontend Developer",
+        "location": "Singapore",
+        "startDate": "2021-04",
+        "endDate": "",
+        "current": true,
+        "description": "Lead design system architect and frontend developer for Grab's super-app platform serving 180M+ users across Southeast Asia.",
+        "achievements": [
+          "Designed and built comprehensive design system with 100+ components used by 200+ developers",
+          "Improved app accessibility score from 62 to 98 by implementing WCAG 2.1 AA guidelines",
+          "Reduced design-to-development handoff time by 40% through automated Figma-to-code pipeline",
+          "Led user research sessions with 500+ participants across 6 countries",
+          "Increased user engagement by 25% through redesigned onboarding flow"
+        ]
+      },
+      {
+        "id": "exp_011",
+        "company": "Shopee",
+        "position": "UI/UX Designer & Frontend Developer",
+        "location": "Singapore",
+        "startDate": "2018-07",
+        "endDate": "2021-03",
+        "current": false,
+        "description": "Designed and developed user interfaces for Shopee's e-commerce platform and seller tools.",
+        "achievements": [
+          "Created seller dashboard redesign increasing seller productivity by 30%",
+          "Built React component library with 60+ reusable components reducing development time by 35%",
+          "Conducted A/B testing on checkout flow increasing conversion rate by 18%",
+          "Designed mobile-first responsive interfaces supporting 50M+ monthly active users",
+          "Mentored 4 junior designers through structured design critique sessions"
+        ]
+      },
+      {
+        "id": "exp_012",
+        "company": "Razorfish",
+        "position": "UI/UX Designer",
+        "location": "Singapore",
+        "startDate": "2016-03",
+        "endDate": "2018-06",
+        "current": false,
+        "description": "Designed digital experiences for enterprise clients including luxury brands and financial institutions.",
+        "achievements": [
+          "Designed award-winning website for luxury fashion brand winning Awwwards SOTD",
+          "Created interactive data visualization dashboards for financial clients",
+          "Led UX research for banking app redesign serving 2M+ customers"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "edu_010",
+        "institution": "National University of Singapore",
+        "degree": "Master of Arts",
+        "fieldOfStudy": "Interaction Design",
+        "startDate": "2014-08",
+        "endDate": "2016-05",
+        "gpa": "3.85",
+        "description": "Thesis on 'Bridging Design and Development: A Framework for Design Systems in Agile Teams'. Published in CHI 2016."
+      },
+      {
+        "id": "edu_011",
+        "institution": "Nanyang Technological University",
+        "degree": "Bachelor of Fine Arts",
+        "fieldOfStudy": "Visual Communication Design",
+        "startDate": "2010-08",
+        "endDate": "2014-05",
+        "gpa": "3.9",
+        "description": "Graduated with First Class Honours. Dean's List for 6 consecutive semesters."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Figma",
+        "level": "Expert",
+        "category": "Design"
+      },
+      {
+        "name": "Sketch",
+        "level": "Expert",
+        "category": "Design"
+      },
+      {
+        "name": "Adobe XD",
+        "level": "Advanced",
+        "category": "Design"
+      },
+      {
+        "name": "Prototyping",
+        "level": "Expert",
+        "category": "Design"
+      },
+      {
+        "name": "User Research",
+        "level": "Expert",
+        "category": "Design"
+      },
+      {
+        "name": "React",
+        "level": "Advanced",
+        "category": "Frontend"
+      },
+      {
+        "name": "Vue.js",
+        "level": "Advanced",
+        "category": "Frontend"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Advanced",
+        "category": "Frontend"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "Expert",
+        "category": "Frontend"
+      },
+      {
+        "name": "Tailwind CSS",
+        "level": "Expert",
+        "category": "Frontend"
+      },
+      {
+        "name": "Storybook",
+        "level": "Advanced",
+        "category": "Frontend"
+      },
+      {
+        "name": "Accessibility (WCAG)",
+        "level": "Expert",
+        "category": "Other"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Grab Design System",
+        "description": "Comprehensive design system with 100+ components, design tokens, and documentation used across all Grab products.",
+        "role": "Lead Designer & Developer",
+        "technologies": [
+          "React",
+          "TypeScript",
+          "Storybook",
+          "Figma",
+          "CSS-in-JS"
+        ],
+        "url": "https://design.grab.com",
+        "github": ""
+      },
+      {
+        "name": "DesignPortfolio",
+        "description": "Personal portfolio showcasing 50+ design projects with case studies and interactive prototypes.",
+        "role": "Designer & Developer",
+        "technologies": [
+          "Vue.js",
+          "GSAP",
+          "Three.js",
+          "Figma"
+        ],
+        "url": "https://sarahchen.design",
+        "github": "https://github.com/sarahchen/portfolio"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Google UX Design Professional Certificate",
+        "issuer": "Google",
+        "date": "2022-05",
+        "credentialId": "GOOGLE-UX-2022-SARAH",
+        "credentialUrl": "https://coursera.org/verify"
+      },
+      {
+        "name": "Certified Accessibility Specialist (CPACC)",
+        "issuer": "IAAP",
+        "date": "2021-09",
+        "credentialId": "IAAP-CPACC-2021-SARAH",
+        "credentialUrl": "https://accessibilityassociation.org/certification"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Mandarin",
+        "proficiency": "Native"
+      },
+      {
+        "language": "Malay",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Awwwards Site of the Day",
+        "organization": "Awwwards",
+        "date": "2023-03",
+        "description": "Won Site of the Day for Grab Design System website showcasing accessibility-first design approach."
+      },
+      {
+        "title": "Red Dot Design Award",
+        "organization": "Red Dot",
+        "date": "2022-07",
+        "description": "Red Dot Award for Interaction Design for Grab super-app redesign project."
+      }
+    ],
+    "organizations": [],
+    "customSections": [],
+    "isPublic": true,
+    "createdAt": "2026-08-05T00:00:00.000Z",
+    "updatedAt": "2026-08-20T18:47:34.738Z"
+  },
+  {
+    "id": "cv_demo_003",
+    "userId": "user_003",
+    "title": "Ahmad Rizky - Senior Backend Engineer",
+    "templateId": "tpl_professional",
+    "personal": {
+      "fullName": "Ahmad Rizky",
+      "professionalTitle": "Senior Backend Engineer & Cloud Architect",
+      "email": "ahmad@demo.com",
+      "phone": "+62856789012",
+      "location": "Bandung, Indonesia",
+      "website": "https://ahmadrizky.dev",
+      "linkedin": "https://linkedin.com/in/ahmadrizky",
+      "github": "https://github.com/ahmadrizky"
+    },
+    "summary": "Results-driven backend engineer with 6+ years of expertise in building scalable microservices, RESTful APIs, and cloud-native applications. Specialized in Node.js, Python, and AWS architecture. Passionate about system design, performance optimization, and mentoring engineering teams.",
+    "experiences": [
+      {
+        "id": "exp_020",
+        "company": "Gojek",
+        "position": "Senior Backend Engineer",
+        "location": "Jakarta, Indonesia",
+        "startDate": "2021-01",
+        "endDate": "",
+        "current": true,
+        "description": "Lead backend architect for Gojek's payment gateway processing 50M+ transactions daily across Southeast Asia.",
+        "achievements": [
+          "Architected payment processing system handling 50M+ daily transactions with 99.99% uptime",
+          "Reduced infrastructure costs by 40% through AWS migration and auto-scaling optimization",
+          "Designed event-driven microservices architecture serving 200M+ users",
+          "Led team of 10 engineers implementing distributed caching reducing DB load by 70%",
+          "Implemented real-time fraud detection system preventing $2M+ in fraudulent transactions monthly"
+        ]
+      },
+      {
+        "id": "exp_021",
+        "company": "Shopee",
+        "position": "Backend Engineer",
+        "location": "Singapore",
+        "startDate": "2018-09",
+        "endDate": "2020-12",
+        "current": false,
+        "description": "Developed high-performance backend services for Shopee's e-commerce platform and payment systems.",
+        "achievements": [
+          "Built order management system processing 10M+ orders per day",
+          "Optimized MySQL queries reducing average response time from 500ms to 50ms",
+          "Implemented Redis caching layer handling 100K+ requests per second",
+          "Designed RESTful APIs serving 50M+ monthly active users",
+          "Created automated testing pipeline achieving 90% code coverage across all services"
+        ]
+      },
+      {
+        "id": "exp_022",
+        "company": "Traveloka",
+        "position": "Backend Developer",
+        "location": "Jakarta, Indonesia",
+        "startDate": "2016-07",
+        "endDate": "2018-08",
+        "current": false,
+        "description": "Developed backend services for Traveloka's travel booking platform and flight search engine.",
+        "achievements": [
+          "Built flight search API integrating with 50+ airlines with sub-second response time",
+          "Implemented booking engine handling 100K+ concurrent users during flash sales",
+          "Designed payment integration system supporting 20+ payment methods"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "id": "edu_020",
+        "institution": "Bandung Institute of Technology",
+        "degree": "Master of Science",
+        "fieldOfStudy": "Computer Science",
+        "startDate": "2014-08",
+        "endDate": "2016-07",
+        "gpa": "3.85",
+        "description": "Thesis on 'Scalable Microservices Architecture for High-Traffic E-Commerce Platforms'. Published in IEEE conference."
+      },
+      {
+        "id": "edu_021",
+        "institution": "Institut Teknologi Bandung",
+        "degree": "Bachelor of Science",
+        "fieldOfStudy": "Information Technology",
+        "startDate": "2010-08",
+        "endDate": "2014-06",
+        "gpa": "3.75",
+        "description": "Graduated with honors. Active member of Open Source Community and Programming Club."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Expert",
+        "category": "Backend"
+      },
+      {
+        "name": "Python",
+        "level": "Expert",
+        "category": "Backend"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced",
+        "category": "Backend"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced",
+        "category": "Backend"
+      },
+      {
+        "name": "Express.js",
+        "level": "Expert",
+        "category": "Backend"
+      },
+      {
+        "name": "FastAPI",
+        "level": "Advanced",
+        "category": "Backend"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Expert",
+        "category": "Database"
+      },
+      {
+        "name": "MySQL",
+        "level": "Expert",
+        "category": "Database"
+      },
+      {
+        "name": "MongoDB",
+        "level": "Advanced",
+        "category": "Database"
+      },
+      {
+        "name": "Redis",
+        "level": "Expert",
+        "category": "Database"
+      },
+      {
+        "name": "AWS",
+        "level": "Expert",
+        "category": "DevOps"
+      },
+      {
+        "name": "Docker",
+        "level": "Expert",
+        "category": "DevOps"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced",
+        "category": "DevOps"
+      },
+      {
+        "name": "Terraform",
+        "level": "Advanced",
+        "category": "DevOps"
+      },
+      {
+        "name": "Kafka",
+        "level": "Advanced",
+        "category": "DevOps"
+      },
+      {
+        "name": "RabbitMQ",
+        "level": "Intermediate",
+        "category": "DevOps"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Payment Gateway API",
+        "description": "High-performance payment processing gateway handling 50M+ daily transactions with real-time fraud detection and multi-currency support.",
+        "role": "Lead Backend Architect",
+        "technologies": [
+          "Node.js",
+          "Go",
+          "PostgreSQL",
+          "Redis",
+          "Kafka",
+          "AWS"
+        ],
+        "url": "",
+        "github": ""
+      },
+      {
+        "name": "CloudDeploy CLI",
+        "description": "Open-source CLI tool for automated AWS deployments with infrastructure-as-code templates and monitoring dashboards.",
+        "role": "Creator",
+        "technologies": [
+          "Go",
+          "AWS SDK",
+          "Terraform",
+          "Docker"
+        ],
+        "url": "https://clouddeploy.dev",
+        "github": "https://github.com/ahmadrizky/clouddeploy"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Solutions Architect Professional",
+        "issuer": "Amazon Web Services",
+        "date": "2023-03",
+        "credentialId": "AWS-SAP-2023-AHMAD",
+        "credentialUrl": "https://aws.amazon.com/verification"
+      },
+      {
+        "name": "AWS DevOps Engineer Professional",
+        "issuer": "Amazon Web Services",
+        "date": "2022-08",
+        "credentialId": "AWS-DOP-2022-AHMAD",
+        "credentialUrl": "https://aws.amazon.com/verification"
+      },
+      {
+        "name": "Certified Kubernetes Application Developer (CKAD)",
+        "issuer": "The Linux Foundation",
+        "date": "2022-04",
+        "credentialId": "CKAD-2022-AHMAD",
+        "credentialUrl": "https://training.linuxfoundation.org/certification"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Indonesian",
+        "proficiency": "Native"
+      },
+      {
+        "language": "English",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "Japanese",
+        "proficiency": "Basic"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "AWS Community Builder",
+        "organization": "Amazon Web Services",
+        "date": "2023-01",
+        "description": "Recognized as AWS Community Builder for contributions to cloud architecture documentation and open-source tools."
+      },
+      {
+        "title": "Speaker at AWS Summit Indonesia",
+        "organization": "Amazon Web Services",
+        "date": "2022-11",
+        "description": "Delivered technical talk on 'Building Scalable Payment Systems with AWS' to 2000+ attendees."
+      },
+      {
+        "title": "Open Source Contributor Award",
+        "organization": "GitHub",
+        "date": "2021-06",
+        "description": "Recognized for significant contributions to open-source developer tools and cloud infrastructure projects."
+      }
+    ],
+    "organizations": [],
+    "customSections": [],
+    "isPublic": true,
+    "createdAt": "2026-08-10T00:00:00.000Z",
+    "updatedAt": "2026-08-21T00:00:00.000Z"
+  },
+  {
+    "userId": "user_752c6f7e-c793-4b0f-82eb-8c5ddd03335f",
+    "title": "Digo fe",
+    "templateId": "tpl_modern",
+    "personal": {
+      "fullName": "Digo Ardestilano",
+      "professionalTitle": "Front End Developer",
+      "email": "digokcn@gmail.com",
+      "phone": "085159002113",
+      "location": "Jakarta, Indonesia",
+      "website": "https://digo.com",
+      "linkedin": "https://digo.com",
+      "github": "https://digo.com"
+    },
+    "summary": "Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo ",
+    "experiences": [
+      {
+        "id": "id_1787302509711_lno8xcalp",
+        "company": "Halo perkenalkan saya digo ",
+        "position": "Halo perkenalkan saya digo ",
+        "location": "Jakarta, Indonesia",
+        "startDate": "2019-10",
+        "endDate": "2023-10",
+        "current": false,
+        "description": "Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo ",
+        "achievements": []
+      },
+      {
+        "id": "id_1787302586929_azpzf552y",
+        "company": "Halo perkenalkan saya digo ",
+        "position": "Halo perkenalkan saya digo ",
+        "location": "jakarta, indonesia",
+        "startDate": "2023-09",
+        "endDate": "2025-10",
+        "current": false,
+        "description": "Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo ",
+        "achievements": []
+      },
+      {
+        "id": "id_1787302663703_atc7b78n4",
+        "company": "Halo perkenalkan saya digo ",
+        "position": "Halo perkenalkan saya digo ",
+        "location": "jakarta, indonesia",
+        "startDate": "2012-02",
+        "endDate": "2015-09",
+        "current": false,
+        "description": "Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo ",
+        "achievements": []
+      }
+    ],
+    "education": [
+      {
+        "id": "id_1787302613307_80rzefsbc",
+        "institution": "Halo perkenalkan saya digo ",
+        "degree": "D3",
+        "fieldOfStudy": "Halo perkenalkan saya digo ",
+        "startDate": "2009-10",
+        "endDate": "2012-10",
+        "gpa": "3.27",
+        "description": "Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo "
+      }
+    ],
+    "skills": [
+      {
+        "name": "html",
+        "level": "Advanced",
+        "category": "Frontend"
+      },
+      {
+        "name": "css",
+        "level": "Beginner",
+        "category": "Frontend"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Halo perkenalkan saya digo ",
+        "description": "Halo perkenalkan saya digo Halo perkenalkan saya digo Halo perkenalkan saya digo ",
+        "role": "Halo perkenalkan saya digo ",
+        "technologies": [
+          "vue js"
+        ],
+        "url": "Halo perkenalkan saya digo ",
+        "github": "Halo perkenalkan saya digo "
+      }
+    ],
+    "certifications": [
+      {
+        "name": "",
+        "issuer": "",
+        "date": "",
+        "credentialId": "",
+        "credentialUrl": ""
+      }
+    ],
+    "languages": [],
+    "achievements": [],
+    "organizations": [],
+    "customSections": [],
+    "isPublic": false,
+    "id": "cv_54427dc7-0c9a-40a4-ac73-79bd90c7b553",
+    "createdAt": "2026-08-21T08:53:07.254Z",
+    "updatedAt": "2026-08-21T09:00:12.559Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tpl_classic",
+    "name": "ATS Classic",
+    "category": "ATS",
+    "preview": "/previews/classic.png",
+    "isPremium": false,
+    "isATSCompatible": true,
+    "description": "Clean centered layout with indigo accents. Optimized for ATS parsing with standard section headings and simple formatting.",
+    "features": ["Standard headings", "Clean layout", "No tables/columns", "ATS-optimized"]
+  },
+  {
+    "id": "tpl_modern",
+    "name": "ATS Modern",
+    "category": "ATS",
+    "preview": "/previews/modern.png",
+    "isPremium": false,
+    "isATSCompatible": true,
+    "description": "Modern blue gradient header with left-aligned content. Professional design that ATS systems can easily parse.",
+    "features": ["Gradient header", "Left-aligned", "Standard sections", "ATS-optimized"]
+  },
+  {
+    "id": "tpl_professional",
+    "name": "Professional",
+    "category": "Professional",
+    "preview": "/previews/professional.png",
+    "isPremium": false,
+    "isATSCompatible": true,
+    "description": "Traditional serif font design for corporate roles. Follows ATS best practices with clean text structure.",
+    "features": ["Serif typography", "Traditional layout", "Corporate style", "ATS-optimized"]
+  },
+  {
+    "id": "tpl_minimalist",
+    "name": "Minimalist",
+    "category": "Minimalist",
+    "preview": "/previews/minimalist.png",
+    "isPremium": false,
+    "isATSCompatible": true,
+    "description": "Ultra-clean minimal design that lets your content speak. Simple structure ensures maximum ATS compatibility.",
+    "features": ["Minimal design", "High readability", "Simple structure", "ATS-optimized"]
+  },
+  {
+    "id": "tpl_developer",
+    "name": "Developer",
+    "category": "Creative",
+    "preview": "/previews/developer.png",
+    "isPremium": false,
+    "isATSCompatible": true,
+    "description": "Monospace font design for tech professionals. Clean code-like aesthetic while maintaining ATS compatibility.",
+    "features": ["Monospace fonts", "Tech aesthetic", "Clean structure", "ATS-optimized"]
+  },
+  {
+    "id": "tpl_executive",
+    "name": "Executive",
+    "category": "Executive",
+    "preview": "/previews/executive.png",
+    "isPremium": false,
+    "isATSCompatible": true,
+    "description": "Elegant serif design for senior positions. Gold accents with ATS-friendly formatting for executive roles.",
+    "features": ["Executive style", "Serif typography", "Gold accents", "ATS-optimized"]
+  }
+]

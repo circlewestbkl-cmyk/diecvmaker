@@ -1,0 +1,65 @@
+[
+  {
+    "id": "user_admin_001",
+    "name": "Admin CVForge",
+    "email": "admin@cvforge.com",
+    "password": "$2b$10$xT0nMlCXS7zh25NwHSdDMOqTFccJ1uUMYrvfjr8.DsEKtEU.8Hgzm",
+    "role": "admin",
+    "createdAt": "2026-01-01T00:00:00.000Z",
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "user_001",
+    "name": "Digo Ardestilano",
+    "email": "digo@demo.com",
+    "password": "$2b$10$xT0nMlCXS7zh25NwHSdDMOqTFccJ1uUMYrvfjr8.DsEKtEU.8Hgzm",
+    "role": "user",
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "updatedAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "user_002",
+    "name": "Sarah Chen",
+    "email": "sarah@demo.com",
+    "password": "$2b$10$xT0nMlCXS7zh25NwHSdDMOqTFccJ1uUMYrvfjr8.DsEKtEU.8Hgzm",
+    "role": "user",
+    "createdAt": "2026-08-05T00:00:00.000Z",
+    "updatedAt": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "id": "user_003",
+    "name": "Ahmad Rizky",
+    "email": "ahmad@demo.com",
+    "password": "$2b$10$xT0nMlCXS7zh25NwHSdDMOqTFccJ1uUMYrvfjr8.DsEKtEU.8Hgzm",
+    "role": "user",
+    "createdAt": "2026-08-10T00:00:00.000Z",
+    "updatedAt": "2026-08-10T00:00:00.000Z"
+  },
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "password": "$2b$10$x94vvbHE9U01HQqG0Ol4OuGvvDxEPSvIC7Q/kSOQD6klkhGiK6dqa",
+    "role": "user",
+    "id": "user_8fce5c69-cb5a-4e3e-80f6-0832c92c349a",
+    "createdAt": "2026-08-20T17:05:49.495Z",
+    "updatedAt": "2026-08-20T17:05:49.495Z"
+  },
+  {
+    "name": "Digo Ardestilano",
+    "email": "digokcn@gmail.com",
+    "password": "$2b$10$MMVHErUOAv9c.Ala8vDziuyOdGQaIsA3PAZQWcoaqvMWsQ3AcXHxq",
+    "role": "user",
+    "id": "user_21b46fc7-8601-43c9-9efc-139d98558508",
+    "createdAt": "2026-08-20T17:16:14.127Z",
+    "updatedAt": "2026-08-21T10:33:23.450Z"
+  },
+  {
+    "name": "aruna",
+    "email": "aruna@gmail.com",
+    "password": "$2b$10$MMVHErUOAv9c.Ala8vDziuyOdGQaIsA3PAZQWcoaqvMWsQ3AcXHxq",
+    "role": "user",
+    "id": "user_752c6f7e-c793-4b0f-82eb-8c5ddd03335f",
+    "createdAt": "2026-08-21T08:52:31.538Z",
+    "updatedAt": "2026-08-21T10:33:23.455Z"
+  }
+]

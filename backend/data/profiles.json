@@ -1,0 +1,47 @@
+[
+  {
+    "id": "profile_001",
+    "userId": "user_001",
+    "fullName": "Digo Ardestilano",
+    "professionalTitle": "Full Stack Developer",
+    "phone": "+62812345678",
+    "location": "Jakarta, Indonesia",
+    "website": "https://digo.dev",
+    "linkedin": "https://linkedin.com/in/digo",
+    "github": "https://github.com/digo",
+    "bio": "Passionate full stack developer with 3+ years of experience building web applications using Vue.js and Node.js.",
+    "avatar": null,
+    "createdAt": "2026-08-01T00:00:00.000Z",
+    "updatedAt": "2026-08-01T00:00:00.000Z"
+  },
+  {
+    "id": "profile_002",
+    "userId": "user_002",
+    "fullName": "Sarah Chen",
+    "professionalTitle": "UI/UX Designer & Frontend Developer",
+    "phone": "+6591234567",
+    "location": "Singapore",
+    "website": "https://sarahchen.design",
+    "linkedin": "https://linkedin.com/in/sarahchen",
+    "github": "https://github.com/sarahchen",
+    "bio": "Creative designer turned developer with a passion for building beautiful, accessible interfaces.",
+    "avatar": null,
+    "createdAt": "2026-08-05T00:00:00.000Z",
+    "updatedAt": "2026-08-05T00:00:00.000Z"
+  },
+  {
+    "id": "profile_003",
+    "userId": "user_003",
+    "fullName": "Ahmad Rizky",
+    "professionalTitle": "Backend Engineer",
+    "phone": "+62856789012",
+    "location": "Bandung, Indonesia",
+    "website": null,
+    "linkedin": "https://linkedin.com/in/ahmadrizky",
+    "github": "https://github.com/ahmadrizky",
+    "bio": "Backend engineer focused on building scalable APIs and microservices.",
+    "avatar": null,
+    "createdAt": "2026-08-10T00:00:00.000Z",
+    "updatedAt": "2026-08-10T00:00:00.000Z"
+  }
+]
